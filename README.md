@@ -1,12 +1,25 @@
 # LaunchTower — Factor Samples (Free)
 
-> **Independent market-data desk.** Reproducible, documented factor screens on US large-caps from public market data. This repo is the **free sample** — the full 151-stock dataset, complete methodology pack, and live signal feed are available on [Whop](https://whop.com/biz_PafLwqOjrf2HRB/).
+> **Independent market-data desk.** Reproducible, documented factor screens on US large-caps from public market data. This repo is the **free sample** — the full 151-stock dataset, complete methodology pack, and live signal feed are available on [Whop](https://whop.com/launchtower/products/launchtower-full-dataset-methodology-e4/).
 
 > ⚠️ **Disclaimer:** Research/educational output from public market data. **Not** personalized investment advice, **not** a recommendation to buy or sell any security. Past performance does not guarantee future results.
 
 ---
 
-## What's in this repo
+## Why This Repo Exists
+
+Most factor screens you'll find online are either:
+- **Black boxes** — you get a ranking but not the code
+- **Stale** — data from 6 months ago, never updated
+- **Incomplete** — 5 stocks, 3 factors, no methodology
+
+This repo gives you **all three**: the exact 15-line Python model, live data from the last 2 years, and a full write-up of every formula. Run it yourself, verify every number, and extend it however you want.
+
+**The free sample below is 19 mega-cap tech stocks.** The full pack covers **151 US large-caps** with the same model, plus backtest results and a dated research report.
+
+---
+
+## What's in This Repo
 
 | File | Description |
 |------|-------------|
@@ -106,11 +119,9 @@ print(results)
 - **Full runnable script** — with configuration knobs (universe, window, weights)
 - **Backtest results** — 24 rebalance periods, top/bottom forward returns, long-short spread (including the months where the signal lost money)
 
-> **🛒 Get the full pack:** [https://whop.com/biz_PafLwqOjrf2HRB/](https://whop.com/biz_PafLwqOjrf2HRB/)
+> **🛒 Get the full pack:** [https://whop.com/launchtower/products/launchtower-full-dataset-methodology-e4/](https://whop.com/launchtower/products/launchtower-full-dataset-methodology-e4/)
 >
-> **Direct checkout:** [https://whop.com/checkout/ch_lRnmk2lkgdB92fl/](https://whop.com/checkout/ch_lRnmk2lkgdB92fl/)
-
-**No subscription. No email gate. One-time purchase.**
+> **$19 one-time. No subscription. No email gate.**
 
 ---
 
